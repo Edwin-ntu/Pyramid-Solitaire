@@ -1,4 +1,4 @@
-# Pyramid-Solitaire-Python-
+# Pyramid-Solitaire
 This is code I made in the first year of university, command line game of pyramid solitaire.
 Below this text is a description of what pyramid solitaire is - this is what I used to base my game logic on.
 
